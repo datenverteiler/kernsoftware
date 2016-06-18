@@ -6,7 +6,44 @@
 
     <groupId>com.github.datenverteiler</groupId>
     <artifactId>datenverteiler-kernsoftware</artifactId>
-    <version>3.7.4</version>
+    <version>3.6.5</version>
     <packaging>pom</packaging>
+
+    <modules>
+        <module>de.bsvrz.dav.daf</module>
+        <module>de.bsvrz.dav.dav</module>
+        <module>de.bsvrz.kex.kexdav</module>
+        <module>de.bsvrz.kex.tls.osi2osi3</module>
+        <module>de.bsvrz.pat.datgen</module>
+        <module>de.bsvrz.pat.onlprot</module>
+        <module>de.bsvrz.pat.sysbed</module>
+        <module>de.bsvrz.pat.sysprot</module>
+        <module>de.bsvrz.puk.config</module>
+        <module>de.bsvrz.sys.funclib.application</module>
+        <module>de.bsvrz.sys.funclib.asyncReceiver</module>
+        <module>de.bsvrz.sys.funclib.commandLineArgs</module>
+        <module>de.bsvrz.sys.funclib.communicationStreams</module>
+        <module>de.bsvrz.sys.funclib.concurrent</module>
+        <module>de.bsvrz.sys.funclib.configObjectAcquisition</module>
+        <module>de.bsvrz.sys.funclib.consoleProcessFrame</module>
+        <module>de.bsvrz.sys.funclib.crypt</module>
+        <module>de.bsvrz.sys.funclib.dataIdentificationSettings</module>
+        <module>de.bsvrz.sys.funclib.dataSerializer</module>
+        <module>de.bsvrz.sys.funclib.debug</module>
+        <module>de.bsvrz.sys.funclib.filelock</module>
+        <module>de.bsvrz.sys.funclib.hexdump</module>
+        <module>de.bsvrz.sys.funclib.kappich</module>
+        <module>de.bsvrz.sys.funclib.losb</module>
+        <module>de.bsvrz.sys.funclib.operatingMessage</module>
+        <module>de.bsvrz.sys.funclib.timeout</module>
+        <module>de.bsvrz.sys.funclib.xmlSupport</module>
+        <module>de.kappich.pat.configBrowser</module>
+        <module>de.kappich.pat.gnd</module>
+        <module>de.kappich.puk.param</module>
+        <module>de.kappich.samples.operatingMessage</module>
+        <module>de.kappich.sys.funclib.profile</module>
+        <module>de.kappich.tools.sleep</module>
+        <module>de.kappich.vew.bmvew</module>
+    </modules>
 
 </project>
