@@ -48,6 +48,7 @@
 
     <name>Kernsoftware</name>
     <url>http://datenverteiler.github.io/${project.artifactId}/</url>
+    <description>Dieses Projekt fasst die Distributionspakete der Kernsoftware zusammen.</description>
 
     <properties>
         <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
