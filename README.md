@@ -4,4 +4,4 @@
 Kernsoftware v${project.version}
 ====================
 
-Dieses Projekt fasst die SW-Einheiten der Kernsoftware zusammen.
+Dieses Projekt fasst die Distributionspakete der Kernsoftware zusammen.
