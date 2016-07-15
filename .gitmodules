@@ -100,3 +100,6 @@ url=https://github.com/bitctrl/de.kappich.pat.gnd
 [submodule "de.kappich.pat.configBrowser"]
 	path = de.kappich.pat.configBrowser
 url=https://github.com/bitctrl/de.kappich.pat.configBrowser
+[submodule "de.kappich.sys.funclib.json"]
+	path = de.kappich.sys.funclib.json
+	url = https://github.com/bitctrl/de.kappich.sys.funclib.json.git
