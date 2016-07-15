@@ -1,102 +1,102 @@
 [submodule "de.bsvrz.dav.daf"]
 	path = de.bsvrz.dav.daf
-	url = https://github.com/datenverteiler/de.bsvrz.dav.daf.git
+url=https://github.com/bitctrl/de.bsvrz.dav.daf.git
 [submodule "de.bsvrz.dav.dav"]
 	path = de.bsvrz.dav.dav
-	url = https://github.com/datenverteiler/de.bsvrz.dav.dav.git
+url=https://github.com/bitctrl/de.bsvrz.dav.dav.git
 [submodule "de.bsvrz.kex.tls.osi2osi3"]
 	path = de.bsvrz.kex.tls.osi2osi3
-	url = https://github.com/datenverteiler/de.bsvrz.kex.tls.osi2osi3.git
+url=https://github.com/bitctrl/de.bsvrz.kex.tls.osi2osi3.git
 [submodule "de.bsvrz.kex.kexdav"]
 	path = de.bsvrz.kex.kexdav
-	url = https://github.com/datenverteiler/de.bsvrz.kex.kexdav.git
+url=https://github.com/bitctrl/de.bsvrz.kex.kexdav.git
 [submodule "de.bsvrz.puk.config"]
 	path = de.bsvrz.puk.config
-	url = https://github.com/datenverteiler/de.bsvrz.puk.config.git
+url=https://github.com/bitctrl/de.bsvrz.puk.config.git
 [submodule "de.bsvrz.pat.sysbed"]
 	path = de.bsvrz.pat.sysbed
-	url = https://github.com/datenverteiler/de.bsvrz.pat.sysbed.git
+url=https://github.com/bitctrl/de.bsvrz.pat.sysbed.git
 [submodule "de.bsvrz.pat.sysprot"]
 	path = de.bsvrz.pat.sysprot
-	url = https://github.com/datenverteiler/de.bsvrz.pat.sysprot.git
+url=https://github.com/bitctrl/de.bsvrz.pat.sysprot.git
 [submodule "de.bsvrz.pat.datgen"]
 	path = de.bsvrz.pat.datgen
-	url = https://github.com/datenverteiler/de.bsvrz.pat.datgen.git
+url=https://github.com/bitctrl/de.bsvrz.pat.datgen.git
 [submodule "de.bsvrz.pat.onlprot"]
 	path = de.bsvrz.pat.onlprot
-	url = https://github.com/datenverteiler/de.bsvrz.pat.onlprot.git
+url=https://github.com/bitctrl/de.bsvrz.pat.onlprot.git
 [submodule "de.bsvrz.sys.funclib.losb"]
 	path = de.bsvrz.sys.funclib.losb
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.losb.git
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.losb.git
 [submodule "de.bsvrz.sys.funclib.kappich"]
 	path = de.bsvrz.sys.funclib.kappich
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.kappich
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.kappich
 [submodule "de.bsvrz.sys.funclib.dataIdentificationSettings"]
 	path = de.bsvrz.sys.funclib.dataIdentificationSettings
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.dataIdentificationSettings
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.dataIdentificationSettings
 [submodule "de.bsvrz.sys.funclib.asyncReceiver"]
 	path = de.bsvrz.sys.funclib.asyncReceiver
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.asyncReceiver
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.asyncReceiver
 [submodule "de.bsvrz.sys.funclib.consoleProcessFrame"]
 	path = de.bsvrz.sys.funclib.consoleProcessFrame
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.consoleProcessFrame
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.consoleProcessFrame
 [submodule "de.bsvrz.sys.funclib.xmlSupport"]
 	path = de.bsvrz.sys.funclib.xmlSupport
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.xmlSupport
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.xmlSupport
 [submodule "de.bsvrz.sys.funclib.configObjectAcquisition"]
 	path = de.bsvrz.sys.funclib.configObjectAcquisition
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.configObjectAcquisition
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.configObjectAcquisition
 [submodule "de.bsvrz.sys.funclib.application"]
 	path = de.bsvrz.sys.funclib.application
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.application
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.application
 [submodule "de.bsvrz.sys.funclib.operatingMessage"]
 	path = de.bsvrz.sys.funclib.operatingMessage
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.operatingMessage
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.operatingMessage
 [submodule "de.bsvrz.sys.funclib.communicationStreams"]
 	path = de.bsvrz.sys.funclib.communicationStreams
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.communicationStreams
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.communicationStreams
 [submodule "de.bsvrz.sys.funclib.dataSerializer"]
 	path = de.bsvrz.sys.funclib.dataSerializer
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.dataSerializer
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.dataSerializer
 [submodule "de.bsvrz.sys.funclib.timeout"]
 	path = de.bsvrz.sys.funclib.timeout
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.timeout
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.timeout
 [submodule "de.bsvrz.sys.funclib.hexdump"]
 	path = de.bsvrz.sys.funclib.hexdump
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.hexdump
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.hexdump
 [submodule "de.bsvrz.sys.funclib.filelock"]
 	path = de.bsvrz.sys.funclib.filelock
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.filelock
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.filelock
 [submodule "de.bsvrz.sys.funclib.debug"]
 	path = de.bsvrz.sys.funclib.debug
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.debug
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.debug
 [submodule "de.bsvrz.sys.funclib.commandLineArgs"]
 	path = de.bsvrz.sys.funclib.commandLineArgs
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.commandLineArgs
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.commandLineArgs
 [submodule "de.bsvrz.sys.funclib.crypt"]
 	path = de.bsvrz.sys.funclib.crypt
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.crypt
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.crypt
 [submodule "de.bsvrz.sys.funclib.concurrent"]
 	path = de.bsvrz.sys.funclib.concurrent
-	url = https://github.com/datenverteiler/de.bsvrz.sys.funclib.concurrent
+url=https://github.com/bitctrl/de.bsvrz.sys.funclib.concurrent
 [submodule "de.kappich.vew.bmvew"]
 	path = de.kappich.vew.bmvew
-	url = https://github.com/datenverteiler/de.kappich.vew.bmvew
+url=https://github.com/bitctrl/de.kappich.vew.bmvew
 [submodule "de.kappich.tools.sleep"]
 	path = de.kappich.tools.sleep
-	url = https://github.com/datenverteiler/de.kappich.tools.sleep
+url=https://github.com/bitctrl/de.kappich.tools.sleep
 [submodule "de.kappich.sys.funclib.profile"]
 	path = de.kappich.sys.funclib.profile
-	url = https://github.com/datenverteiler/de.kappich.sys.funclib.profile
+url=https://github.com/bitctrl/de.kappich.sys.funclib.profile
 [submodule "de.kappich.samples.operatingMessage"]
 	path = de.kappich.samples.operatingMessage
-	url = https://github.com/datenverteiler/de.kappich.samples.operatingMessage
+url=https://github.com/bitctrl/de.kappich.samples.operatingMessage
 [submodule "de.kappich.puk.param"]
 	path = de.kappich.puk.param
-	url = https://github.com/datenverteiler/de.kappich.puk.param
+url=https://github.com/bitctrl/de.kappich.puk.param
 [submodule "de.kappich.pat.gnd"]
 	path = de.kappich.pat.gnd
-	url = https://github.com/datenverteiler/de.kappich.pat.gnd
+url=https://github.com/bitctrl/de.kappich.pat.gnd
 [submodule "de.kappich.pat.configBrowser"]
 	path = de.kappich.pat.configBrowser
-	url = https://github.com/datenverteiler/de.kappich.pat.configBrowser
+url=https://github.com/bitctrl/de.kappich.pat.configBrowser
