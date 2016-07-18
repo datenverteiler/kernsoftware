@@ -6,7 +6,7 @@
 
     <groupId>de.kappich</groupId>
     <artifactId>kernsoftware</artifactId>
-    <version>3.6.5</version>
+    <version>3.8.0</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -42,6 +42,7 @@
         <module>de.kappich.puk.param</module>
         <module>de.kappich.samples.operatingMessage</module>
         <module>de.kappich.sys.funclib.profile</module>
+        <module>de.kappich.sys.funclib.json</module>
         <module>de.kappich.tools.sleep</module>
         <module>de.kappich.vew.bmvew</module>
     </modules>
@@ -51,18 +52,18 @@
     <description>Dieses Projekt fasst die Distributionspakete der Kernsoftware zusammen.</description>
 
     <properties>
-        <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
-        <project.reporting.outputEncoding>ISO-8859-1</project.reporting.outputEncoding>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.build.timestamp.format>yyyy-MM-dd</maven.build.timestamp.format>
         <distributionspaket.status>FREI</distributionspaket.status>
-        <distributionspaket.standDatum>2015-05-21</distributionspaket.standDatum>
-        <distributionspaket.lizenz>GPLv2.0</distributionspaket.lizenz>
+        <distributionspaket.standDatum>2016-05-31</distributionspaket.standDatum>
+        <distributionspaket.lizenz>GPLv3.0</distributionspaket.lizenz>
     </properties>
 
     <licenses>
         <license>
-            <name>GNU General Public License v2.0</name>
-            <url>http://www.gnu.org/licenses/gpl-2.0.txt</url>
+            <name>GNU General Public License v3.0</name>
+            <url>http://www.gnu.org/licenses/gpl-3.0.txt</url>
         </license>
     </licenses>
 
@@ -77,19 +78,19 @@
     </developers>
 
     <scm>
-        <connection>scm:git:https://github.com/datenverteiler/${project.artifactId}.git</connection>
-        <developerConnection>scm:git:https://github.com/datenverteiler/${project.artifactId}.git</developerConnection>
-        <url>https://github.com/datenverteiler/${project.artifactId}</url>
+        <connection>scm:git:https://github.com/bitctrl/${project.artifactId}.git</connection>
+        <developerConnection>scm:git:https://github.com/bitctrl/${project.artifactId}.git</developerConnection>
+        <url>https://github.com/bitctrl/${project.artifactId}</url>
     </scm>
 
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/datenverteiler/${project.artifactId}/</url>
+        <url>https://github.com/bitctrl/${project.artifactId}/</url>
     </issueManagement>
 
     <ciManagement>
         <system>Travis-CI</system>
-        <url>https://travis-ci.org/datenverteiler/${project.artifactId}/</url>
+        <url>https://travis-ci.org/bitctrl/${project.artifactId}/</url>
     </ciManagement>
 
     <profiles>
@@ -122,7 +123,7 @@
                 <repository>
                     <id>bintray-datenverteiler-maven</id>
                     <name>datenverteiler-maven</name>
-                    <url>https://api.bintray.com/maven/datenverteiler/maven/${project.artifactId}/;publish=1</url>
+                    <url>https://api.bintray.com/maven/bitctrl/maven/${project.artifactId}/;publish=1</url>
                 </repository>
             </distributionManagement>
         </profile>
